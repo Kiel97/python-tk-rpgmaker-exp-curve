@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+virtualenv/
 
 # Spyder project settings
 .spyderproject
@@ -102,3 +103,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ignore VSCode folder
+.vscode/
+
+# Ignore __pycache__ folder
+__pycache__/
+
